@@ -16,7 +16,7 @@ A junior Flutter developer passionate about clean architecture, state management
 ## 🎯 Learning Path
 - Advanced Flutter  
 - Native Android (Kotlin)  
-- Spring Boot Fundamentals  
+
 
 ---
 
