@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Pouya  
+### 🧑‍💻 Flutter Developer | Mobile Enthusiast
 
-<!--
-**pooyaazizi/pooyaazizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A junior Flutter developer passionate about clean architecture, state management patterns, and building smooth mobile experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- **Flutter • Dart**  
+- **State Management:** BLoC, Provider  
+- **Architecture:** Clean Architecture + GetIt (DI)  
+- **Others:** Git & GitHub, REST API, Kotlin (Beginner)
+
+---
+
+## 🎯 Learning Path
+- Advanced Flutter  
+- Native Android (Kotlin)  
+- Spring Boot Fundamentals  
+
+---
+
+## 🔗 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Pooyaazizi5@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pooya-azizi/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/pooyaazizi5)
+
